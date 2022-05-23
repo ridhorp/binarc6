@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+.row{
+    justify-content: center;
+}
+
+.login-screen{
+    padding-top: 24vh;
+}
+
+.add-data-screen{
+    padding-top: 24vh;
+}
